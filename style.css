@@ -7,3 +7,96 @@ img{
 
   background: url(1678285142508.jpg);
 }
+header{
+  position: absolute;
+width: 1434px;
+height: 355px;
+left: 3px;
+top: 0px;
+
+border: 5px solid #866BBE;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)}
+
+.contato{
+  position: absolute;
+width: 492px;
+height: 739px;
+left: 994px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 800;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+border: 2px solid #FF0000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.jv{
+  position: absolute;
+width: 375px;
+height: 70px;
+left: 926px;
+top: 116px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 800;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+border: 3px solid #DA0000;
+}
+.numero{position: absolute;
+width: 541px;
+height: 77px;
+left: 843px;
+top: 213px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 800;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+border: 2px solid #FF0505;}
+.texto1 {position: absolute;
+width: 710px;
+height: 308px;
+left: 591px;
+top: 431px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 800;
+font-size: 36px;
+line-height: 44px;
+
+color: #06AACE;
+
+border: 1px solid #EC1596;
+}
+.texto2 h1 {position: absolute;
+width: 1050px;
+height: 144px;
+left: 200px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+
+color: #00C3EE;
+
+border: 1px solid #EF0885;
+}
