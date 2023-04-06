@@ -1,27 +1,29 @@
 img{
   position: absolute;
-  width: 281px;
+  width: 181px;
   height: 285px;
-  left: 27px;
+  left: 47px;
   top: 21px;
+background: url(1678285142508.jpg);
 
-  background: url(1678285142508.jpg);
 }
-header{
+
+.cabeçalho{
   position: absolute;
-width: 1434px;
+width: 1900px;;
 height: 355px;
 left: 3px;
 top: 0px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border:solid #000000;
+}
 
-border: 5px solid #866BBE;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)}
 
 .contato{
 position: absolute;
 width: 30px;
 height: 739px;
-left: 994px;
+left:1094px;
 top: 0px;
 
 font-family: 'Inter';
@@ -32,7 +34,7 @@ line-height: 77px;
 
 color: #000000;
 
-border: 2px solid #FF0000;
+border: 0px solid #FF0000;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 }
@@ -40,7 +42,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   position: absolute;
 width: 375px;
 height: 70px;
-left: 926px;
+left:1020px;
 top: 116px;
 
 font-family: 'Inter';
@@ -51,7 +53,7 @@ line-height: 77px;
 
 color: #000000;
 
-border: 3px solid #DA0000;
+border: 0px solid #DA0000;
 }
 .numero{position: absolute;
 width: 541px;
@@ -82,7 +84,7 @@ line-height: 44px;
 
 color: #06AACE;
 
-border: 1px solid #EC1596;
+
 }
 .texto2 h1 {position: absolute;
 width: 1050px;
@@ -98,5 +100,5 @@ line-height: 48px;
 
 color: #00C3EE;
 
-border: 1px solid #EF0885;
+
 }
