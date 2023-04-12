@@ -70,35 +70,31 @@ line-height: 77px;
 color: #000000;
 
 border: 2px solid #FF0505;}
-.texto1 {position: absolute;
-width: 710px;
-height: 308px;
-left: 591px;
+.texto1 {
+  position: absolute;
+width: 1760px;
+height: 808px;
+left: 91px;
 top: 431px;
-
 font-family: 'Inter';
 font-style: italic;
-font-weight: 800;
-font-size: 36px;
-line-height: 44px;
-
-color: #06AACE;
-
+font-weight: 300;
+font-size: 26px;
+line-height: 74px;
+color: black
 
 }
-.texto2 h1 {position: absolute;
-width: 1050px;
-height: 144px;
-left: 200px;
+.texto2 h1 {
+  position: absolute;
+width: 1800px;
+height: 344px;
+left: 100px;
 top: 766px;
-
 font-family: 'Inter';
 font-style: italic;
 font-weight: 800;
-font-size: 40px;
-line-height: 48px;
-
-color: #00C3EE;
-
+font-size: 50px;
+line-height: 68px;
+color: #000000;
 
 }
